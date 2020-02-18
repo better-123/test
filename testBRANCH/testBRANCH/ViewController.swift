@@ -17,6 +17,11 @@ class ViewController: UIViewController {
         
         print("开始着手2.0版本开发")
         
+        
+    }
+    func fixbug() {
+        
+        print("修复了1.0版本的bug的1.1版本")
     }
 
 
