@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         
         print("1.0开发版本完成")
         
+        print("开始着手2.0版本开发")
+        
     }
 
 
